@@ -12,6 +12,7 @@ class Data(object):
             host=None,
             type=None,
             type_instance=None,
+            dstypes=None,
             interval=None,
             time=None,
             values=None,
