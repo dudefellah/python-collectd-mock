@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 
 setup(
     name="python-collectd-mock",
-    version="0.0.2",
+    version="0.0.3",
     url="https://github.com/winkidney/python-collectd-mock",
     description="A python mock module for collectd plugin unittest test.",
     author="winkidney",
